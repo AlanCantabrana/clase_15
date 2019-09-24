@@ -1,0 +1,11 @@
+{
+  "name": "clase_15",
+  "version": "1.0.0",
+  "description": "Clase 15",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Cantabrana",
+  "license": "ISC"
+}
